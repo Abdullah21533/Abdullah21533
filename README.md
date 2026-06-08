@@ -1,48 +1,122 @@
-👋 Hi, I’m @Abdullah21533
-I am an AI researcher and machine learning engineer with a strong focus on deep learning, computer vision, and medical AI applications. My research revolves around lightweight, high-performance AI models optimized for low-resource settings, including healthcare, IoT, and automation.
+# Hi there 👋, I'm Muhammad Abdullah
 
-👀 I’m interested in...
-🔹 AI-driven Medical Diagnosis & Healthcare Innovations
-🔹 Edge AI & IoT for Real-Time Intelligent Systems
-🔹 Efficient Deep Learning Models for Low-Resource Devices
-🔹 AI for Emergency Response & Smart Monitoring
+### 🚀 AI Researcher | Machine Learning Engineer | Computer Vision Developer
 
-🌱 I’m currently working on...
-✔ AI-Powered Real-Time Conjunctivitis Detection
-✔ Autism Spectrum Disorder Detection using Deep Learning
-✔ Lung Disease Diagnosis using AI on Chest Radiographs
-✔ Lightweight YOLOv8s-Ghost-CBAM for Real-Time Object Detection
+I am a Machine Learning Engineer and AI Researcher specializing in lightweight, interpretable, and real-time AI systems for healthcare, robotics, and embedded platforms.
 
-💞️ I’m looking to collaborate on...
-🤝 AI Research & Publications
-🤝 Open-Source AI Models for Healthcare
-🤝 Machine Learning Competitions & Kaggle Challenges
+🎓 BS Software Engineering — The Islamia University of Bahawalpur (Pakistan)
 
-🏆 Featured Research & Publications
-🔬 Published: IoT-Driven Intelligent Decision-Making for Fishpond Water Quality Monitoring
-📑 Under Review:
+🔬 Founder & Research Mentor — Global Undergraduate Research Program (GURP)
 
-Optimized AI for Conjunctivitis Detection in Low-Resource Settings
-AI-Powered Fire & Rescue Operations using Custom Quadcopters
-Deep Learning-based Lung Disease Classification
-🔗 ResearchGate Profile
+🏆 Published SCI Researcher | International Scholarship Recipient | Kaggle Expert
 
-⚡ Technical Skills
-🧠 Machine Learning & Deep Learning (CNN, RNN, Transformers, YOLO, ViT)
-👁️‍🗨️ Computer Vision (Object Detection, Segmentation, Image Processing)
-💻 Programming: Python, C++, MATLAB
-📦 Frameworks: TensorFlow, PyTorch, OpenCV, Hugging Face
-☁ Cloud & AI Deployment: Microsoft Azure, AWS, Edge AI
+---
 
-🔗 Connect with Me
-🌍 Kaggle
-👔 LinkedIn
-📸 Instagram
-📹 TikTok
-📩 Email: Abdullah21533@gmail.com
+## Research Focus
 
-This will make your GitHub profile stand out and showcase your research expertise. Let me know if you'd like any modifications! 🚀
-<!---
-Abdullah21533/Abdullah21533 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Medical Artificial Intelligence
+* Computer Vision & Deep Learning
+* Lightweight Neural Networks
+* Edge AI & Embedded Systems
+* Robotics & Intelligent Automation
+* Internet of Things (IoT)
+* Explainable AI (XAI)
+
+---
+
+## Featured Projects
+
+### 🩺 YOLO-OcuLite
+
+Clinically guided lightweight AI framework for real-time conjunctivitis diagnosis.
+
+### 🧩 YOLO-ASDLite
+
+Real-time Autism Spectrum Disorder detection using behavioral analysis.
+
+### 🤖 YOLO-RoboSortLite
+
+Autonomous AI-powered waste sorting robotic arm using computer vision.
+
+### 🌊 Smart Aquaculture AI
+
+IoT-driven fish pond monitoring and species prediction system.
+
+### 🚁 Emergency Response AI
+
+Drone-based fire, smoke, and victim detection framework.
+
+---
+
+## Publications
+
+📖 Published
+
+**An Optimal IoT-Driven Intelligent Decision-Making System for Real-Time Fishpond Water Quality Monitoring and Species Survival**
+
+Journal: Sensors (MDPI), 2024
+
+### Manuscripts Under Review
+
+* Nature Communications Medicine
+* Computer Methods and Programs in Biomedicine
+* Mechanical Systems and Signal Processing
+* Energy Reports
+
+---
+
+## Technical Stack
+
+### Languages
+
+Python • C++ • MATLAB • MicroPython
+
+### AI & Deep Learning
+
+TensorFlow • PyTorch • Keras • OpenCV • Scikit-Learn
+
+### Computer Vision
+
+YOLO • Vision Transformers • Image Segmentation • Object Detection
+
+### Edge AI
+
+TensorFlow Lite • ONNX • Raspberry Pi • NVIDIA Jetson • ESP32
+
+### Tools
+
+Git • GitHub • Kaggle • Roboflow • ROS • Google Colab
+
+---
+
+## Achievements
+
+🏅 PURE International Research Scholarship (Türkiye)
+
+🏅 First Prize — Technology Expo (IUB)
+
+🏅 Merit Scholarship Recipient
+
+🏅 Research Assistant in AI & Medical Imaging
+
+🏅 Teaching Assistant (AI & Machine Learning)
+
+---
+
+## Connect With Me
+
+🌐 GitHub: github.com/Abdullah21533
+
+💼 LinkedIn: linkedin.com/in/muhammad-abdullah-684127273
+
+📊 Kaggle: kaggle.com/chmuhammadabdullah
+
+🔬 ResearchGate: researchgate.net/profile/Muhammad-Abdullah-576
+
+🆔 ORCID: 0009-0003-4502-9085
+
+📧 Email: [abdullah21533@gmail.com](mailto:abdullah21533@gmail.com)
+
+---
+
+### “Building Lightweight AI Solutions for Healthcare, Robotics, and Real-World Impact.”
