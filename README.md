@@ -1,122 +1,225 @@
-# Hi there 👋, I'm Muhammad Abdullah
+# 👋 Hi, I'm Muhammad Abdullah
 
-### 🚀 AI Researcher | Machine Learning Engineer | Computer Vision Developer
+### 🚀 Machine Learning Engineer | AI Researcher | Computer Vision Developer
 
-I am a Machine Learning Engineer and AI Researcher specializing in lightweight, interpretable, and real-time AI systems for healthcare, robotics, and embedded platforms.
-
-🎓 BS Software Engineering — The Islamia University of Bahawalpur (Pakistan)
-
-🔬 Founder & Research Mentor — Global Undergraduate Research Program (GURP)
-
-🏆 Published SCI Researcher | International Scholarship Recipient | Kaggle Expert
+[![Kaggle](https://img.shields.io/badge/Kaggle-Expert-blue)](https://www.kaggle.com/chmuhammadabdullah)
+[![GitHub](https://img.shields.io/badge/GitHub-Abdullah21533-black)](https://github.com/Abdullah21533)
 
 ---
 
-## Research Focus
+## 🚀 Professional Summary
 
-* Medical Artificial Intelligence
-* Computer Vision & Deep Learning
-* Lightweight Neural Networks
-* Edge AI & Embedded Systems
-* Robotics & Intelligent Automation
-* Internet of Things (IoT)
+Machine Learning Engineer and AI Researcher specializing in lightweight computer vision, medical AI, embedded intelligence, and real-time edge deployment. My work focuses on designing efficient AI systems that operate reliably in resource-constrained environments, with applications spanning healthcare diagnostics, robotics, intelligent monitoring, and IoT-enabled automation.
+
+I have contributed to an SCI-indexed publication in *Sensors* and several high-impact research manuscripts currently under review in leading journals, including *Nature Communications Medicine*, *Computer Methods and Programs in Biomedicine*, and *Mechanical Systems and Signal Processing*. My research has led to the development of multiple end-to-end AI frameworks, including YOLO-OcuLite for conjunctivitis diagnosis, YOLO-ASDLite for autism spectrum disorder screening, AI-powered robotic waste sorting systems, and intelligent IoT monitoring platforms.
+
+As Founder and Research Mentor of the Global Undergraduate Research Program (GURP), I mentor undergraduate researchers in developing publishable research and securing international opportunities. My goal is to build deployable AI systems that bridge academic research and real-world impact.
+
+---
+
+## 🔬 Research Interests
+
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Medical Imaging
+* Computer Vision
 * Explainable AI (XAI)
+* Edge AI
+* Embedded Intelligence
+* Robotics and Automation
+* Internet of Things (IoT)
 
 ---
 
-## Featured Projects
+## 🏆 Publications
+
+### Published Research
+
+📖 **An Optimal IoT-Driven Intelligent Decision-Making System for Real-Time Fishpond Water Quality Monitoring and Species Survival**
+
+Journal: *Sensors (MDPI)*
+
+---
+
+### Research Under Review
+
+📑 Lightweight AI Framework for Real-Time Conjunctivitis Detection
+
+📑 AI-Based Autism Spectrum Disorder Screening System
+
+📑 Intelligent Robotic Waste Sorting System
+
+📑 Embedded Medical AI Systems for Resource-Constrained Environments
+
+---
+
+## 🚀 Featured Projects
 
 ### 🩺 YOLO-OcuLite
 
-Clinically guided lightweight AI framework for real-time conjunctivitis diagnosis.
+Lightweight and interpretable AI framework for real-time conjunctivitis subtype detection.
 
 ### 🧩 YOLO-ASDLite
 
-Real-time Autism Spectrum Disorder detection using behavioral analysis.
+Real-time autism spectrum disorder screening using computer vision and behavioral analysis.
 
 ### 🤖 YOLO-RoboSortLite
 
-Autonomous AI-powered waste sorting robotic arm using computer vision.
+Autonomous robotic waste sorting system using computer vision and robotic manipulation.
 
 ### 🌊 Smart Aquaculture AI
 
-IoT-driven fish pond monitoring and species prediction system.
+IoT-driven intelligent fishpond monitoring and fish species prediction platform.
 
 ### 🚁 Emergency Response AI
 
-Drone-based fire, smoke, and victim detection framework.
+AI-powered drone system for fire detection, victim identification, and emergency response.
+
+### 🏥 Biomedical Monitoring Systems
+
+Non-invasive healthcare monitoring devices using embedded AI and IoT technologies.
 
 ---
 
-## Publications
+## 🛠 Technical Skills
 
-📖 Published
+### Programming
 
-**An Optimal IoT-Driven Intelligent Decision-Making System for Real-Time Fishpond Water Quality Monitoring and Species Survival**
+* Python
+* C++
+* MATLAB
+* Arduino
 
-Journal: Sensors (MDPI), 2024
+### Machine Learning & AI
 
-### Manuscripts Under Review
-
-* Nature Communications Medicine
-* Computer Methods and Programs in Biomedicine
-* Mechanical Systems and Signal Processing
-* Energy Reports
-
----
-
-## Technical Stack
-
-### Languages
-
-Python • C++ • MATLAB • MicroPython
-
-### AI & Deep Learning
-
-TensorFlow • PyTorch • Keras • OpenCV • Scikit-Learn
+* TensorFlow
+* PyTorch
+* Scikit-Learn
+* OpenCV
+* Hugging Face
+* Ultralytics YOLO
 
 ### Computer Vision
 
-YOLO • Vision Transformers • Image Segmentation • Object Detection
+* Object Detection
+* Image Classification
+* Medical Imaging
+* Segmentation
+* Vision Transformers
 
-### Edge AI
+### Embedded Systems
 
-TensorFlow Lite • ONNX • Raspberry Pi • NVIDIA Jetson • ESP32
+* Raspberry Pi
+* ESP32
+* Arduino
+* Embedded Linux
+
+### Cloud & Deployment
+
+* Microsoft Azure
+* AWS
+* Edge AI Deployment
+* TensorFlow Lite
+* ONNX
 
 ### Tools
 
-Git • GitHub • Kaggle • Roboflow • ROS • Google Colab
+* Git
+* GitHub
+* Kaggle
+* Roboflow
+* Google Colab
+* Jupyter Notebook
 
 ---
 
-## Achievements
+## 🎓 Education
 
-🏅 PURE International Research Scholarship (Türkiye)
+**Bachelor of Science in Software Engineering**
 
-🏅 First Prize — Technology Expo (IUB)
-
-🏅 Merit Scholarship Recipient
-
-🏅 Research Assistant in AI & Medical Imaging
-
-🏅 Teaching Assistant (AI & Machine Learning)
+The Islamia University of Bahawalpur (IUB), Pakistan
 
 ---
 
-## Connect With Me
+## 👨‍🏫 Research Mentorship
 
-🌐 GitHub: github.com/Abdullah21533
+### Founder & Research Mentor
 
-💼 LinkedIn: linkedin.com/in/muhammad-abdullah-684127273
+**Global Undergraduate Research Program (GURP)**
 
-📊 Kaggle: kaggle.com/chmuhammadabdullah
+Mentoring undergraduate researchers in:
 
-🔬 ResearchGate: researchgate.net/profile/Muhammad-Abdullah-576
-
-🆔 ORCID: 0009-0003-4502-9085
-
-📧 Email: [abdullah21533@gmail.com](mailto:abdullah21533@gmail.com)
+* AI Research
+* Scientific Writing
+* Journal Publications
+* Scholarship Applications
+* International Research Collaboration
 
 ---
 
-### “Building Lightweight AI Solutions for Healthcare, Robotics, and Real-World Impact.”
+## 🌍 Research Collaboration
+
+* The Islamia University of Bahawalpur (Pakistan)
+* University of Shanghai for Science and Technology (China)
+* Zhejiang University (China)
+* Clinical and Healthcare Research Partners
+
+---
+
+## 📈 GitHub Focus
+
+Repositories primarily include:
+
+* Medical AI Systems
+* Computer Vision Projects
+* Deep Learning Models
+* Robotics and Automation
+* Embedded AI Applications
+* IoT Platforms
+* Research Implementations
+
+---
+
+## 🤝 Open for Collaboration
+
+I am interested in collaborating on:
+
+* AI Research Projects
+* SCI Journal Publications
+* Healthcare AI Applications
+* Computer Vision Systems
+* Embedded AI Solutions
+* Robotics and Automation
+* Open-Source Research
+
+---
+
+## 📫 Connect With Me
+
+🌐 GitHub: https://github.com/Abdullah21533
+
+💼 LinkedIn:
+https://www.linkedin.com/in/muhammad-abdullah-684127273
+
+📊 Kaggle:
+https://www.kaggle.com/chmuhammadabdullah
+
+📸 Instagram:
+https://www.instagram.com/muhammad3634abdullah
+
+🎥 TikTok:
+https://tiktok.com/@chabdullah5576
+
+📧 Email:
+[abdullah21533@gmail.com](mailto:abdullah21533@gmail.com)
+
+---
+
+## 💡 Research Philosophy
+
+*"AI should not only achieve high accuracy in the laboratory but also remain accessible, efficient, interpretable, and deployable where it is needed most."*
+
+---
+
+⭐ If you find my projects useful, consider starring the repositories and connecting for collaboration.
