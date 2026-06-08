@@ -13,7 +13,7 @@ Machine Learning Engineer and AI Researcher specializing in lightweight computer
 
 I have contributed to an SCI-indexed publication in *Sensors* and several high-impact research manuscripts currently under review in leading journals, including *Nature Communications Medicine*, *Computer Methods and Programs in Biomedicine*, and *Mechanical Systems and Signal Processing*. My research has led to the development of multiple end-to-end AI frameworks, including YOLO-OcuLite for conjunctivitis diagnosis, YOLO-ASDLite for autism spectrum disorder screening, AI-powered robotic waste sorting systems, and intelligent IoT monitoring platforms.
 
-As Founder and Research Mentor of the Global Undergraduate Research Program (GURP), I mentor undergraduate researchers in developing publishable research and securing international opportunities. My goal is to build deployable AI systems that bridge academic research and real-world impact.
+As Research Mentor of the Global Undergraduate Research Program (GURP), I mentor undergraduate researchers in developing publishable research and securing international opportunities. My goal is to build deployable AI systems that bridge academic research and real-world impact.
 
 ---
 
@@ -144,7 +144,7 @@ The Islamia University of Bahawalpur (IUB), Pakistan
 
 ## 👨‍🏫 Research Mentorship
 
-### Founder & Research Mentor
+### Research Mentor
 
 **Global Undergraduate Research Program (GURP)**
 
